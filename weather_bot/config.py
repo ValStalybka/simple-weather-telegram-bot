@@ -1,4 +1,4 @@
-# enter your tokens here
+# enter your API tokens here
 BOT_API_TOKEN = ""
 WEATHER_API_KEY = ""
 
